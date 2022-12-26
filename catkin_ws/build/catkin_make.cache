@@ -1,0 +1,2 @@
+evry_project_description:evry_project_plugins:evry_project_strategy
+-DCATKIN_DEVEL_PREFIX=/home/miodine/Desktop/mission_coordination_tp/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/miodine/Desktop/mission_coordination_tp/catkin_ws/install -G Unix Makefiles

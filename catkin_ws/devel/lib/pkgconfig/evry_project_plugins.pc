@@ -1,0 +1,8 @@
+prefix=/home/miodine/Desktop/mission_coordination_tp/catkin_ws/devel
+
+Name: evry_project_plugins
+Description: Description of evry_project_plugins
+Version: 0.0.0
+Cflags: -I/home/miodine/Desktop/mission_coordination_tp/catkin_ws/devel/include
+Libs: -L${prefix}/lib 
+Requires: 
