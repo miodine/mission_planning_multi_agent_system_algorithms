@@ -4,8 +4,6 @@ Autnonomous mobile robot navigation task.
 ## About
 Repository containing solutions to the final project realised as a lab activity on Mission Coordination course, at Université d'Évry. Fall 2022. 
 
-The solutions were prepared by Pawel ROZENBLUT and Ewelina ROBAKOWSKA from Activity Group 3. 
-
 ## Solutions
 
 The realisation of the tasks concerned development of navigation and control strategies for autonomous robots. The issue concerned mixed-level control directives for said robots but not from a swarm-like perspective of robot coordination, but rather from POV of individual unit - adaptive response to the environment while trying to achieve its prescribed goal. 
